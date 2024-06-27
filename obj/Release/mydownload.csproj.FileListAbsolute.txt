@@ -1,0 +1,11 @@
+D:\project\mydownload\bin\Release\mydownload.exe.config
+D:\project\mydownload\bin\Release\mydownload.exe
+D:\project\mydownload\bin\Release\mydownload.pdb
+D:\project\mydownload\obj\Release\mydownload.csproj.AssemblyReference.cache
+D:\project\mydownload\obj\Release\mydownload.csproj.SuggestedBindingRedirects.cache
+D:\project\mydownload\obj\Release\mydownload.Properties.Resources.resources
+D:\project\mydownload\obj\Release\mydownload.csproj.GenerateResource.cache
+D:\project\mydownload\obj\Release\mydownload.csproj.CoreCompileInputs.cache
+D:\project\mydownload\obj\Release\mydownload.exe
+D:\project\mydownload\obj\Release\mydownload.pdb
+D:\project\mydownload\obj\Release\mydownload.MainForm.resources
